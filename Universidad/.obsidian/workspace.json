@@ -1,24 +1,40 @@
 {
   "main": {
-    "id": "1c043499d1b76a38",
+    "id": "d83dc095b50e3d32",
     "type": "split",
     "children": [
       {
-        "id": "e0f94caa6167ad94",
+        "id": "7ea0c5b4eccb209f",
         "type": "tabs",
         "children": [
           {
-            "id": "58d0dd2c6f3f3fca",
+            "id": "f3970bc3c2935641",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primer Documento.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Primer Documento"
+              "title": "Welcome"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c559628d430c3028",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36699af1836906c8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -27,15 +43,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6fa3f754d44f9a25",
+    "id": "71054a341482201b",
     "type": "split",
     "children": [
       {
-        "id": "696f908183a25d8f",
+        "id": "efac4c8a4a5a0179",
         "type": "tabs",
         "children": [
           {
-            "id": "1fa9e195f5a5869b",
+            "id": "44a058c02d6939d6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +64,7 @@
             }
           },
           {
-            "id": "a2a0b35aafbd6af4",
+            "id": "5468975705c9172e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +81,7 @@
             }
           },
           {
-            "id": "9d9c576a7f6cae82",
+            "id": "aad1432976c8eb3f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +97,20 @@
     "width": 300
   },
   "right": {
-    "id": "0cd4daca09366381",
+    "id": "28b92fcd5d775d72",
     "type": "split",
     "children": [
       {
-        "id": "d4109d02b48c408c",
+        "id": "4889f763acf47f7d",
         "type": "tabs",
         "children": [
           {
-            "id": "9aaa7dca75585b7d",
+            "id": "0264de973c3414c3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primer Documento.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +120,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Primer Documento"
+              "title": "Backlinks for Welcome"
             }
           },
           {
-            "id": "d882d0d94721cd72",
+            "id": "17e93da4b01badf6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Primer Documento.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Primer Documento"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
-            "id": "bacc6a37a8efe705",
+            "id": "0b5d30c820f2140d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +153,18 @@
             }
           },
           {
-            "id": "a01e23e34a2ef462",
+            "id": "fd6ac57bedb654ce",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Primer Documento.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Primer Documento"
+              "title": "Outline of Welcome"
             }
           }
         ]
@@ -168,9 +184,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58d0dd2c6f3f3fca",
+  "active": "f3970bc3c2935641",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Primer Documento.md"
+    "Welcome.md"
   ]
 }
